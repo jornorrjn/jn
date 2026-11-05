@@ -1,0 +1,23 @@
+# Python environments & caches
+.venv/
+.venv-1/
+cv_env/
+__pycache__/
+*.pyc
+.vscode/
+
+# Datasets / photos (personal, large)
+data/
+datta/
+faces/
+faces.zip
+face&eye/
+output/
+attendance_photos/
+
+# Large model files
+classifier.xml
+hand_landmarker.task
+haarcascade_frontalface_default.xml
+
+.DS_Store
